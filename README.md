@@ -10,7 +10,7 @@ Goal: Minimize **Cost per Unit ($/Yield)** while maximizing **HDO Yield (%)**.
 - **Minimum Cost per Unit**: $X.XX /%Yield  <- ganti X dengan nilai dari `opt_cost_unit` lu
 
 ## Visualizations
-![HDO 3D Optimization](HDO_Cost_Yield_Optimization.png)
+![HDO 3D Optimization](Optimization-of-HYDRODEOXYGENATION-Unit).png)
 *Surface plot showing Cost per Unit vs Pressure & Temperature. Color indicates HDO Yield (%).*
 
 ## Tools & Skills Demonstrated
