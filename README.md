@@ -7,10 +7,9 @@ Goal: Minimize **Cost per Unit ($/Yield)** while maximizing **HDO Yield (%)**.
 ## Key Results
 - **Optimal Operating Point**: 80 Bar, 300°C
 - **Maximum Yield**: 83.89%
-- **Minimum Cost per Unit**: $X.XX /%Yield  <- ganti X dengan nilai dari `opt_cost_unit` lu
-
+- **Minimum Cost per Unit**: $0.027978 /%Yield  <- ganti
 ## Visualizations
-![HDO 3D Optimization](Optimization-of-HYDRODEOXYGENATION-Unit).png)
+![HDO 3D Optimization](https://github.com/YazidMubarok-ChemEng/Optimization-of-HYDRODEOXYGENATION-Unit/tree/main).png)
 *Surface plot showing Cost per Unit vs Pressure & Temperature. Color indicates HDO Yield (%).*
 
 ## Tools & Skills Demonstrated
